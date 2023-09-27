@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **WebDevlopment**
+- 👯 I’m looking to collaborate on web development.
 
 - 📝 I regularly write articles on [Life And Education](Life And Education)
 
